@@ -1,0 +1,15 @@
+{ bower install
+    
+    "name": "US_Y3_Final_Project_-_FT_e-Commerce",
+    "version": "1.0.0",
+    "main": "path/to/main.css",
+    "ignore": [
+        ".jshintrc",
+        "**/*.txt"
+    ],
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+   
+}
